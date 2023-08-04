@@ -1,0 +1,915 @@
+.home-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-page-home-page {
+  width: 100%;
+  height: 1631px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 245, 1);
+}
+.home-page-rectangle47 {
+  top: 204px;
+  left: 297px;
+  width: 867px;
+  height: 336px;
+  position: absolute;
+}
+.home-page-rectangle46 {
+  top: 599px;
+  left: 297px;
+  width: 865px;
+  height: 333px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle10 {
+  top: 0px;
+  left: 4px;
+  width: 240px;
+  height: 792px;
+  position: absolute;
+}
+.home-page-rectangle41 {
+  top: 695px;
+  left: 29px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-more {
+  top: 707.239990234375px;
+  left: 96.5px;
+  width: 34px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-notifications {
+  top: 540.1400146484375px;
+  left: 96.5px;
+  width: 85px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-my-profile {
+  top: 617.1400146484375px;
+  left: 96.5px;
+  width: 69px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-jobs {
+  top: 335.1400146484375px;
+  left: 95.33999633789062px;
+  width: 29px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rankings {
+  top: 403.1400146484375px;
+  left: 96.4800033569336px;
+  width: 63px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-messaging {
+  top: 475.1400146484375px;
+  left: 96.5px;
+  width: 74px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-my-network {
+  top: 268.1400146484375px;
+  left: 95.5px;
+  width: 83px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle11 {
+  top: 114px;
+  left: 59px;
+  width: 131px;
+  height: 42px;
+  position: absolute;
+}
+.home-page-search {
+  top: 129.13999938964844px;
+  left: 111.87999725341797px;
+  width: 45px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-home {
+  top: 211.24000549316406px;
+  left: 95.5px;
+  width: 39px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-ellipse2 {
+  top: 599px;
+  left: 23px;
+  width: 55px;
+  height: 63px;
+  position: absolute;
+}
+.home-page-rectangle22 {
+  top: 122px;
+  left: 82px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.home-page-rectangle15 {
+  top: 41px;
+  left: 298px;
+  width: 865px;
+  height: 162px;
+  position: absolute;
+}
+.home-page-rectangle42 {
+  top: 51px;
+  left: 1109px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-rectangle44 {
+  top: 612px;
+  left: 1109px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-fluidmovementsextensionsandchallengingchoreography {
+  top: 766px;
+  left: 316px;
+  width: 383px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-flexibility {
+  top: 738.1400146484375px;
+  left: 325.3999938964844px;
+  width: 65px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-fluidmovementsextensionsandchallengingchoreography1 {
+  top: 842px;
+  left: 317px;
+  width: 383px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-collaboration {
+  top: 814.1400146484375px;
+  left: 325.05999755859375px;
+  width: 90px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-lagos-nigeria-contact-info {
+  top: 378px;
+  left: 326px;
+  width: 187px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-line-stroke {
+  top: 806px;
+  left: 331px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-line-stroke {
+  top: 879px;
+  left: 331px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-rectangle19 {
+  top: 1005px;
+  left: 298px;
+  width: 865px;
+  height: 348px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle45 {
+  top: 1023px;
+  left: 1109px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-lagos-nigeria {
+  top: 1131px;
+  left: 418px;
+  width: 80px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-dancer {
+  top: 1071px;
+  left: 418px;
+  width: 54px;
+  height: 16px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-experience {
+  top: 1023px;
+  left: 325px;
+  width: 94px;
+  height: 23px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-skills {
+  top: 622.4249877929688px;
+  left: 324.82501220703125px;
+  width: 45px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-afrobeats-ndombolo-amapiano {
+  top: 691px;
+  left: 318px;
+  width: 212px;
+  height: 17px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-dancer1 {
+  top: 353px;
+  left: 324px;
+  width: 54px;
+  height: 16px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-technique {
+  top: 663.1400146484375px;
+  left: 324.32000732421875px;
+  width: 71px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-nmesoma-jeff-nwankwo {
+  top: 322px;
+  left: 320px;
+  width: 217px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-mavins-record-parttime-job {
+  top: 1092px;
+  left: 414px;
+  width: 206px;
+  height: 15px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-june202-present1month {
+  top: 1112px;
+  left: 419px;
+  width: 183px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-about {
+  top: 428.42498779296875px;
+  left: 324.2749938964844px;
+  width: 52px;
+  height: 19px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-meet-mimiapassionatedancerwhosemovementstellmesmeri {
+  top: 457px;
+  left: 320px;
+  width: 794px;
+  height: 73px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-line-stroke {
+  top: 722px;
+  left: 331px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-line-stroke1 {
+  top: 417px;
+  left: 298px;
+  width: 866px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-rectangle21 {
+  top: 1066px;
+  left: 325px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+}
+.home-page-rectangle20 {
+  top: 41px;
+  left: 1183px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.home-page-line-stroke {
+  top: 251px;
+  left: 1198.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-ellipse4 {
+  top: 277px;
+  left: 1191px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.home-page-people-you-may-know {
+  top: 71.42500305175781px;
+  left: 1210.0970458984375px;
+  width: 198px;
+  height: 24px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-ellipse3 {
+  top: 119px;
+  left: 1191px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.home-page-group10 {
+  top: 146.85499572753906px;
+  left: 1287px;
+  width: 139.87066650390625px;
+  height: 75.14500427246094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-artist {
+  top: 23px;
+  left: 0.27000001072883606px;
+  width: 28px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-nino-chibuzor-nwachukwu {
+  top: 3px;
+  left: -9px;
+  width: 139px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-group9 {
+  top: 45.14500045776367px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-rectangle6button {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.home-page-connect {
+  top: 11.681950569152832px;
+  left: 18.696971893310547px;
+  width: 41px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-musician {
+  top: 315.8550109863281px;
+  left: 1288.050048828125px;
+  width: 45px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-ochong-aduma-johnson {
+  top: 292.85498046875px;
+  left: 1287.675048828125px;
+  width: 124px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-group91 {
+  top: 338px;
+  left: 1287px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-rectangle6button1 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.home-page-connect1 {
+  top: 11.681950569152832px;
+  left: 18.696971893310547px;
+  width: 41px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle2-stroke {
+  top: 448px;
+  left: 1182px;
+  width: 277px;
+  height: 42px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-show-more {
+  top: 461.8550109863281px;
+  left: 1286.5999755859375px;
+  width: 58px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle23 {
+  top: 525px;
+  left: 1183px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.home-page-ellipse9 {
+  top: 757px;
+  left: 1191px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.home-page-line-stroke {
+  top: 735px;
+  left: 1198.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.home-page-people-you-mightlike {
+  top: 555.4249877929688px;
+  left: 1212.8802490234375px;
+  width: 192px;
+  height: 24px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-ellipse6 {
+  top: 603px;
+  left: 1191px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.home-page-group11 {
+  top: 630.85498046875px;
+  left: 1287px;
+  width: 82px;
+  height: 75.14500427246094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-dancer2 {
+  top: 23.825000762939453px;
+  left: 1.0499999523162842px;
+  width: 35px;
+  height: 10px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-regina-eigbe {
+  top: 0px;
+  left: 0.8850000500679016px;
+  width: 67px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-group92 {
+  top: 45.14500045776367px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-rectangle6button2 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.home-page-connect2 {
+  top: 11.681950569152832px;
+  left: 18.696971893310547px;
+  width: 41px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-group20 {
+  top: 776.85498046875px;
+  left: 1287px;
+  width: 126.90538787841797px;
+  height: 75.14500427246094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-dancer-content-creator {
+  top: 23px;
+  left: 1.0500030517578125px;
+  width: 126px;
+  height: 14px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-softmadeit {
+  top: 0px;
+  left: 0.49500274658203125px;
+  width: 58px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-group12 {
+  top: 45.14500045776367px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page-rectangle6button3 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.home-page-connect3 {
+  top: 11.681950569152832px;
+  left: 18.696971893310547px;
+  width: 41px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle2-stroke {
+  top: 932px;
+  left: 1182px;
+  width: 277px;
+  height: 42px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-show-more1 {
+  top: 945.85498046875px;
+  left: 1286.5999755859375px;
+  width: 58px;
+  height: 11px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.home-page-rectangle34 {
+  top: 10px;
+  left: 29px;
+  width: 190px;
+  height: 85px;
+  position: absolute;
+}
+.home-page-rectangle35 {
+  top: 196px;
+  left: 29px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-rectangle36 {
+  top: 257px;
+  left: 29px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.home-page-rectangle37 {
+  top: 324px;
+  left: 29px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.home-page-rectangle38 {
+  top: 391px;
+  left: 29px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-rectangle39 {
+  top: 467px;
+  left: 29px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.home-page-rectangle40 {
+  top: 534px;
+  left: 29px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.home-page-rectangle12 {
+  top: 1517px;
+  left: 0px;
+  width: 1542px;
+  height: 114px;
+  position: absolute;
+}
+.home-page-text {
+  top: 1583px;
+  left: 1193px;
+  color: rgba(0, 0, 0, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text2 {
+  top: 1583px;
+  left: 1264px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text4 {
+  top: 1583px;
+  left: 1369px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text6 {
+  top: 1540px;
+  left: 1155px;
+  color: rgba(0, 0, 0, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text7 {
+  color: rgba(0, 0, 0, 1);
+}
+.home-page-rectangle32 {
+  top: 1556px;
+  left: 101px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.home-page-rectangle31 {
+  top: 1556px;
+  left: 163px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.home-page-rectangle30 {
+  top: 1556px;
+  left: 37px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.home-page-rectangle43 {
+  top: 216px;
+  left: 1109px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.home-page-ellipse8 {
+  top: 122px;
+  left: 326px;
+  width: 145px;
+  height: 149px;
+  position: absolute;
+}
+.home-page-text14 {
+  top: 539px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text16 {
+  top: 616px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text18 {
+  top: 334px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text20 {
+  top: 402px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text22 {
+  top: 474px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text24 {
+  top: 267px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-page-text26 {
+  top: 209px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

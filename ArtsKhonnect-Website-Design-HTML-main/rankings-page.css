@@ -1,0 +1,2040 @@
+.rankings-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.rankings-page-rankings-page {
+  width: 100%;
+  height: 2126px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 245, 1);
+}
+.rankings-page-rectangle12 {
+  top: 2012px;
+  left: 0px;
+  width: 1542px;
+  height: 114px;
+  position: absolute;
+}
+.rankings-page-rectangle16 {
+  top: 200px;
+  left: 305px;
+  width: 865px;
+  height: 1636px;
+  position: absolute;
+}
+.rankings-page-ellipse9 {
+  top: 1369px;
+  left: 415px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-rectangle20 {
+  top: 41px;
+  left: 1227px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.rankings-page-ellipse3 {
+  top: 124px;
+  left: 1235px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-line6 {
+  top: 251.5px;
+  left: 1242.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.rankings-page-ellipse4 {
+  top: 277px;
+  left: 1235px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text {
+  top: 62px;
+  left: 1227px;
+  color: rgba(0, 0, 0, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group10 {
+  top: 141px;
+  left: 1337px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text002 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group9 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text006 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text008 {
+  top: 310px;
+  left: 1337px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text010 {
+  top: 287px;
+  left: 1337px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group91 {
+  top: 338px;
+  left: 1337px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button01 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text012 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle22 {
+  top: 449px;
+  left: 1227px;
+  width: 275px;
+  height: 40px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.rankings-page-text014 {
+  top: 456px;
+  left: 1331px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle15 {
+  top: 41px;
+  left: 305px;
+  width: 865px;
+  height: 162px;
+  position: absolute;
+}
+.rankings-page-text016 {
+  top: 64px;
+  left: 495px;
+  color: rgba(255, 255, 255, 1);
+  width: 498px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group28 {
+  top: 130px;
+  left: 634px;
+  width: 208px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 46px;
+  position: absolute;
+}
+.rankings-page-text018 {
+  top: 7px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle13 {
+  top: 8px;
+  left: 19.039794921875px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.rankings-page-text020 {
+  top: 281px;
+  left: 936px;
+  color: rgba(0, 0, 0, 1);
+  width: 222px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group25 {
+  top: 420px;
+  left: 862px;
+  width: 302px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle26 {
+  top: 0.6363636255264282px;
+  left: 0px;
+  width: 302px;
+  height: 27px;
+  position: absolute;
+}
+.rankings-page-rectangle27 {
+  top: 0.6363636255264282px;
+  left: 0px;
+  width: 273px;
+  height: 27px;
+  position: absolute;
+}
+.rankings-page-text022 {
+  left: 125.4599380493164px;
+  color: rgba(255, 255, 255, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group26 {
+  top: 548px;
+  left: 862px;
+  width: 302px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle261 {
+  top: 0.6363636255264282px;
+  left: 0px;
+  width: 302px;
+  height: 27px;
+  position: absolute;
+}
+.rankings-page-rectangle271 {
+  top: 0.6363636255264282px;
+  left: 0px;
+  width: 273px;
+  height: 27px;
+  position: absolute;
+}
+.rankings-page-text024 {
+  left: 125.4599380493164px;
+  color: rgba(255, 255, 255, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text026 {
+  top: 271px;
+  left: 322px;
+  color: rgba(0, 0, 0, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text028 {
+  top: 387px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text029 {
+  top: 514px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text030 {
+  top: 651px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text031 {
+  top: 798px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text032 {
+  top: 939px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text033 {
+  top: 1086px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text034 {
+  top: 1233px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text035 {
+  top: 1380px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text036 {
+  top: 1527px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 26px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text037 {
+  top: 1674px;
+  left: 324px;
+  color: rgba(0, 0, 0, 1);
+  width: 37px;
+  height: auto;
+  position: absolute;
+  font-size: 45px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group16 {
+  top: 365px;
+  left: 415px;
+  width: 368px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse7 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group12 {
+  top: 22px;
+  left: 102px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text039 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text041 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group92 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button02 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text043 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group18 {
+  top: 780px;
+  left: 414px;
+  width: 368px;
+  height: 244px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse71 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group1201 {
+  top: 22px;
+  left: 102px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text045 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text047 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group93 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button03 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text049 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group161 {
+  top: 141px;
+  left: 0px;
+  width: 368px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse72 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group1202 {
+  top: 22px;
+  left: 102px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text051 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text053 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group94 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button04 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text055 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group19 {
+  top: 496px;
+  left: 414px;
+  width: 368px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse73 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group1203 {
+  top: 22px;
+  left: 102px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text057 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text059 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group95 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button05 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text061 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group162 {
+  top: 633px;
+  left: 415px;
+  width: 368px;
+  height: 103px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse74 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group1204 {
+  top: 22px;
+  left: 102px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text063 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text065 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group96 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button06 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text067 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group20 {
+  top: 1075px;
+  left: 415px;
+  width: 368px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse5 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text069 {
+  top: 33px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text071 {
+  top: 10px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1205 {
+  top: 61px;
+  left: 102px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button07 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text073 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group21 {
+  top: 1222px;
+  left: 415px;
+  width: 368px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse51 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text075 {
+  top: 33px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text077 {
+  top: 10px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1206 {
+  top: 61px;
+  left: 102px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button08 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text079 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group22 {
+  top: 1379px;
+  left: 516px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text081 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text083 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1207 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button09 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text085 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group23 {
+  top: 1516px;
+  left: 415px;
+  width: 368px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse52 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text087 {
+  top: 33px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text089 {
+  top: 10px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1208 {
+  top: 61px;
+  left: 102px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button10 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text091 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group24 {
+  top: 1663px;
+  left: 415px;
+  width: 368px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse53 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text093 {
+  top: 33px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text095 {
+  top: 10px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1209 {
+  top: 61px;
+  left: 102px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button11 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text097 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle23 {
+  top: 530px;
+  left: 1227px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.rankings-page-line7 {
+  top: 740.5px;
+  left: 1242.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.rankings-page-text099 {
+  top: 551px;
+  left: 1227px;
+  color: rgba(0, 0, 0, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-ellipse6 {
+  top: 608px;
+  left: 1235px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-group11 {
+  top: 630px;
+  left: 1337px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-text101 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text103 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group97 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button12 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text105 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group201 {
+  top: 766px;
+  left: 1235px;
+  width: 368px;
+  height: 101px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-ellipse54 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.rankings-page-text107 {
+  top: 33px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text109 {
+  top: 10px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-group1210 {
+  top: 61px;
+  left: 102px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rankings-page-rectangle6button13 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.rankings-page-text111 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle24 {
+  top: 938px;
+  left: 1227px;
+  width: 275px;
+  height: 40px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.rankings-page-text113 {
+  top: 945px;
+  left: 1331px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-frame29 {
+  top: 2295px;
+  left: 109px;
+  width: 1246px;
+  height: 1726px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rankings-page-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 792px;
+  position: absolute;
+}
+.rankings-page-ellipse2 {
+  top: 599px;
+  left: 19px;
+  width: 55px;
+  height: 63px;
+  position: absolute;
+}
+.rankings-page-rectangle41 {
+  top: 695px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle34 {
+  top: 10px;
+  left: 25px;
+  width: 190px;
+  height: 85px;
+  position: absolute;
+}
+.rankings-page-rectangle35 {
+  top: 196px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle36 {
+  top: 257px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.rankings-page-rectangle37 {
+  top: 324px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.rankings-page-rectangle38 {
+  top: 391px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle42 {
+  top: 404px;
+  left: 349px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle43 {
+  top: 531px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle44 {
+  top: 667px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle45 {
+  top: 814px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle46 {
+  top: 955px;
+  left: 349px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle47 {
+  top: 1102px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle48 {
+  top: 1249px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle49 {
+  top: 1396px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle50 {
+  top: 1543px;
+  left: 350px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle51 {
+  top: 1690px;
+  left: 361px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.rankings-page-rectangle39 {
+  top: 467px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.rankings-page-rectangle40 {
+  top: 534px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.rankings-page-text115 {
+  top: 699px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text120 {
+  top: 533px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text122 {
+  top: 610px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text124 {
+  top: 328px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text126 {
+  top: 396px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text128 {
+  top: 468px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text130 {
+  top: 261px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle111 {
+  top: 114px;
+  left: 55px;
+  width: 131px;
+  height: 42px;
+  position: absolute;
+}
+.rankings-page-text132 {
+  top: 122px;
+  left: 112px;
+  color: rgba(0, 0, 0, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text134 {
+  top: 203px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-rectangle221 {
+  top: 122px;
+  left: 78px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.rankings-page-rectangle30 {
+  top: 2051px;
+  left: 37px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.rankings-page-rectangle32 {
+  top: 2051px;
+  left: 101px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.rankings-page-rectangle31 {
+  top: 2051px;
+  left: 163px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.rankings-page-text136 {
+  top: 2035px;
+  left: 1156px;
+  color: rgba(0, 0, 0, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text137 {
+  color: rgba(0, 0, 0, 1);
+}
+.rankings-page-text139 {
+  top: 2078px;
+  left: 1194px;
+  color: rgba(0, 0, 0, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text141 {
+  top: 2078px;
+  left: 1265px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rankings-page-text143 {
+  top: 2078px;
+  left: 1371px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

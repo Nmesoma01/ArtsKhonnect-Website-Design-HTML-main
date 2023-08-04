@@ -1,0 +1,360 @@
+.sign-up-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up-page-sign-up-page {
+  width: 100%;
+  height: 868px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-rectangle7 {
+  top: 593px;
+  left: 548px;
+  width: 444px;
+  height: 50px;
+  position: absolute;
+}
+.sign-up-page-frame41 {
+  gap: 9px;
+  top: 88px;
+  left: 548px;
+  width: 444px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-up-page-rectangle8 {
+  width: 444px;
+  height: 505px;
+}
+.sign-up-page-text {
+  color: rgba(47, 45, 186, 0.83);
+  width: 179px;
+  height: auto;
+  z-index: 1;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text01 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-group37 {
+  top: 149px;
+  left: 80px;
+  width: 282px;
+  height: 46px;
+  display: flex;
+  z-index: 2;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up-page-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 46px;
+  position: absolute;
+}
+.sign-up-page-text03 {
+  top: 6px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-group36 {
+  top: 204px;
+  left: 81px;
+  width: 282px;
+  height: 46px;
+  display: flex;
+  z-index: 3;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up-page-rectangle41 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 46px;
+  position: absolute;
+}
+.sign-up-page-text05 {
+  top: 6px;
+  left: 101px;
+  color: rgba(255, 255, 255, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-group38 {
+  top: 259px;
+  left: 80px;
+  width: 282px;
+  height: 46px;
+  display: flex;
+  z-index: 4;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up-page-rectangle42 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 46px;
+  position: absolute;
+}
+.sign-up-page-text07 {
+  top: 6px;
+  left: 102px;
+  color: rgba(255, 255, 255, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-group39 {
+  top: 314px;
+  left: 80px;
+  width: 282px;
+  height: 46px;
+  display: flex;
+  z-index: 5;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.sign-up-page-rectangle43 {
+  top: 0px;
+  left: 0px;
+  width: 282px;
+  height: 46px;
+  position: absolute;
+}
+.sign-up-page-text09 {
+  top: 6px;
+  left: 107px;
+  color: rgba(255, 255, 255, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-rectangle6button {
+  top: 454px;
+  left: 155px;
+  width: 131px;
+  height: 36px;
+  z-index: 6;
+  position: absolute;
+}
+.sign-up-page-text11 {
+  top: 384px;
+  color: rgba(0, 0, 0, 0.8299999833106995);
+  width: 442px;
+  height: auto;
+  z-index: 7;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: center;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text13 {
+  top: 96px;
+  left: 36px;
+  color: rgba(0, 0, 0, 1);
+  width: 373px;
+  height: auto;
+  z-index: 8;
+  position: absolute;
+  font-size: 25px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text14 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-rectangle9 {
+  top: 9px;
+  left: 104px;
+  width: 238px;
+  height: 78px;
+  z-index: 9;
+  position: absolute;
+}
+.sign-up-page-text16 {
+  top: 454px;
+  left: 191px;
+  color: rgba(255, 255, 255, 1);
+  width: 61px;
+  height: auto;
+  z-index: 10;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-group8 {
+  top: 754px;
+  left: 0px;
+  width: 1542px;
+  height: 114px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(245, 245, 245, 1);
+}
+.sign-up-page-text18 {
+  top: 66px;
+  left: 1194px;
+  color: rgba(0, 0, 0, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text20 {
+  top: 66px;
+  left: 1265px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text22 {
+  top: 66px;
+  left: 1371px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text24 {
+  top: 777px;
+  left: 1156px;
+  color: rgba(0, 0, 0, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-up-page-text25 {
+  color: rgba(0, 0, 0, 1);
+}
+.sign-up-page-rectangle32 {
+  top: 793px;
+  left: 101px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.sign-up-page-rectangle31 {
+  top: 793px;
+  left: 163px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.sign-up-page-rectangle30 {
+  top: 793px;
+  left: 37px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}

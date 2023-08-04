@@ -1,0 +1,1059 @@
+.jobs-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.jobs-page-jobs-page {
+  width: 100%;
+  height: 1361px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(245, 245, 245, 1);
+}
+.jobs-page-group31 {
+  top: 41px;
+  left: 1227px;
+  width: 376px;
+  height: 448px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.jobs-page-line6 {
+  top: 210.5px;
+  left: 15.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.jobs-page-ellipse4 {
+  top: 236px;
+  left: 8px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.jobs-page-text {
+  top: 21px;
+  color: rgba(0, 0, 0, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-ellipse3 {
+  top: 78px;
+  left: 8px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.jobs-page-group10 {
+  top: 100px;
+  left: 110px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text02 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group9 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle6button {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.jobs-page-text06 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text08 {
+  top: 269px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text10 {
+  top: 246px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group91 {
+  top: 297px;
+  left: 110px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle6button1 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.jobs-page-text12 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle22 {
+  top: 408px;
+  left: 0px;
+  width: 275px;
+  height: 40px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.jobs-page-text14 {
+  top: 415px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group32 {
+  top: 530px;
+  left: 1227px;
+  width: 376px;
+  height: 448px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 275px;
+  height: 448px;
+  position: absolute;
+}
+.jobs-page-line7 {
+  top: 210.5px;
+  left: 15.5px;
+  width: 243px;
+  height: 1px;
+  position: absolute;
+}
+.jobs-page-text16 {
+  top: 21px;
+  color: rgba(0, 0, 0, 1);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-ellipse6 {
+  top: 78px;
+  left: 8px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.jobs-page-group11 {
+  top: 100px;
+  left: 110px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text18 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text20 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group92 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle6button2 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.jobs-page-text22 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group20 {
+  top: 246px;
+  left: 110px;
+  width: 266px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text24 {
+  top: 23px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text26 {
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-group12 {
+  top: 51px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-rectangle6button3 {
+  top: 0px;
+  left: 0px;
+  width: 82px;
+  height: 30px;
+  position: absolute;
+}
+.jobs-page-text28 {
+  top: 5.121951103210449px;
+  left: 18.02197265625px;
+  color: rgba(255, 255, 255, 1);
+  width: 47px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle24 {
+  top: 408px;
+  left: 0px;
+  width: 275px;
+  height: 40px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.jobs-page-text30 {
+  top: 415px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-ellipse5 {
+  top: 231px;
+  left: 8px;
+  width: 94px;
+  height: 101px;
+  position: absolute;
+}
+.jobs-page-rectangle16 {
+  top: 62px;
+  left: 305px;
+  width: 865px;
+  height: 1043px;
+  position: absolute;
+}
+.jobs-page-rectangle45 {
+  top: 70px;
+  left: 1120px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.jobs-page-group35 {
+  top: 500px;
+  left: 348px;
+  width: 772px;
+  height: 74px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text32 {
+  left: 82px;
+  color: rgba(44, 58, 179, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text34 {
+  top: 26px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text36 {
+  top: 48px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+}
+.jobs-page-rectangle28 {
+  top: 4px;
+  left: 737px;
+  width: 35px;
+  height: 38px;
+  position: absolute;
+}
+.jobs-page-group34 {
+  top: 362px;
+  left: 348px;
+  width: 772px;
+  height: 74px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text38 {
+  left: 82px;
+  color: rgba(44, 58, 179, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text40 {
+  top: 26px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text42 {
+  top: 48px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle211 {
+  top: 0px;
+  left: 0px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+}
+.jobs-page-rectangle281 {
+  top: 4px;
+  left: 737px;
+  width: 35px;
+  height: 38px;
+  position: absolute;
+}
+.jobs-page-text44 {
+  top: 72px;
+  left: 350px;
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text49 {
+  top: 114px;
+  left: 348px;
+  color: rgba(0, 0, 0, 1);
+  width: 449px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-line3 {
+  top: 335px;
+  left: 334px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.jobs-page-line4 {
+  top: 473px;
+  left: 334px;
+  width: 799px;
+  height: 1px;
+  position: absolute;
+}
+.jobs-page-group33 {
+  top: 225px;
+  left: 350px;
+  width: 772px;
+  height: 74px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.jobs-page-text51 {
+  left: 82px;
+  color: rgba(44, 58, 179, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text53 {
+  top: 26px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text55 {
+  top: 48px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle212 {
+  top: 0px;
+  left: 0px;
+  width: 73px;
+  height: 73px;
+  position: absolute;
+}
+.jobs-page-rectangle282 {
+  top: 4px;
+  left: 737px;
+  width: 35px;
+  height: 38px;
+  position: absolute;
+}
+.jobs-page-group40 {
+  top: 0px;
+  left: 0px;
+  width: 240px;
+  height: 792px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.jobs-page-text57 {
+  top: 699px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text62 {
+  top: 533px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text64 {
+  top: 610px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text66 {
+  top: 328px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text68 {
+  top: 396px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text70 {
+  top: 468px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text72 {
+  top: 261px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-rectangle11 {
+  top: 114px;
+  left: 55px;
+  width: 131px;
+  height: 42px;
+  position: absolute;
+}
+.jobs-page-text74 {
+  top: 122px;
+  left: 112px;
+  color: rgba(0, 0, 0, 1);
+  width: 53px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text76 {
+  top: 203px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 44px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-ellipse2 {
+  top: 599px;
+  left: 19px;
+  width: 55px;
+  height: 63px;
+  position: absolute;
+}
+.jobs-page-rectangle221 {
+  top: 122px;
+  left: 78px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.jobs-page-rectangle41 {
+  top: 695px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.jobs-page-rectangle34 {
+  top: 10px;
+  left: 25px;
+  width: 190px;
+  height: 85px;
+  position: absolute;
+}
+.jobs-page-rectangle35 {
+  top: 196px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.jobs-page-rectangle36 {
+  top: 257px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.jobs-page-rectangle37 {
+  top: 324px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.jobs-page-rectangle38 {
+  top: 391px;
+  left: 25px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.jobs-page-rectangle39 {
+  top: 467px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.jobs-page-rectangle40 {
+  top: 534px;
+  left: 25px;
+  width: 39px;
+  height: 36px;
+  position: absolute;
+}
+.jobs-page-rectangle12 {
+  top: 1247px;
+  left: 0px;
+  width: 1542px;
+  height: 114px;
+  position: absolute;
+}
+.jobs-page-rectangle30 {
+  top: 1286px;
+  left: 37px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.jobs-page-rectangle32 {
+  top: 1286px;
+  left: 101px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.jobs-page-rectangle31 {
+  top: 1286px;
+  left: 163px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.jobs-page-text78 {
+  top: 1270px;
+  left: 1156px;
+  color: rgba(0, 0, 0, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text79 {
+  color: rgba(0, 0, 0, 1);
+}
+.jobs-page-text81 {
+  top: 1313px;
+  left: 1194px;
+  color: rgba(0, 0, 0, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text83 {
+  top: 1313px;
+  left: 1265px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.jobs-page-text85 {
+  top: 1313px;
+  left: 1371px;
+  color: rgba(0, 0, 0, 1);
+  width: 134px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: ExtraLight;
+  text-align: left;
+  font-family: Saira Condensed;
+  font-weight: 200;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
