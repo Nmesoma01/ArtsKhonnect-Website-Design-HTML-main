@@ -10,3 +10,5 @@ STEP 2: Extract the Code: After downloading, unzip the file to extract the proje
 STEP 3: Open in Browser: Navigate to the extracted project folder and find the main HTML file (e.g., index.html). Open the HTML file using your preferred web browser to view the project.
 
 That's it! You've successfully set up and accessed the project in your browser. Enjoy exploring!
+
+# Static Website has also been deployed on GitHub (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/)
