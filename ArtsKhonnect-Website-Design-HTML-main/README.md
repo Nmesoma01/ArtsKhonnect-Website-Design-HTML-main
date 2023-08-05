@@ -19,6 +19,6 @@ Sign up/Registration page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Des
 
 My Profile/Homepage; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/home-page.html)
 
-Rankngs page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/rankings-page.html)
+Rankings page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/rankings-page.html)
 
 Jobs page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/jobs-page.html)
