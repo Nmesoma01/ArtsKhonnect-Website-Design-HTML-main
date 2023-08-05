@@ -11,4 +11,9 @@ STEP 3: Open in Browser: Navigate to the extracted project folder and find the m
 
 That's it! You've successfully set up and accessed the project in your browser. Enjoy exploring!
 
-Static Website has also been deployed on GitHub (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/)
+Static Website has also been deployed on GitHub. 
+Login page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/index.html)
+Sign up/Registration page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/sign-up-page.html)
+My Profile/Homepage; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/home-page.html)
+Rankngs page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/rankings-page.html)
+Jobs page; (https://nmesoma01.github.io/ArtsKhonnect-Website-Design-HTML-main/jobs-page.html)
